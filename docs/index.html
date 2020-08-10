@@ -1,31 +1,51 @@
 <!DOCTYPE html>
+<html lang="en">
 <head>
-<title>Freeware Lovers - The Company</title>
-<meta name="viewport" content="width=device-width; initial-scale=1.0">
-<script src="https://kit.fontawesome.com/5a4122e476.js"></script>
-<link type="text/css" rel="stylesheet" href="style.css">
+	<title>Freeware Lovers - The Company</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width; initial-scale=1.0">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+	<link type="text/css" rel="stylesheet" href="styledemo.css">
+	<script src="https://kit.fontawesome.com/5a4122e476.js"></script>
 </head>
 <body>
+<div class="container-fluid">
 
-<header>
-
-</header>
-
-	<div class="navigation">
-		<div class="dropdown">
-			<button class="dropdown-button">
-				<i class="fas fa-bars"></i>
-			</button>  	
-			<div class="dropdown-content">
-				<a href="/">Home <i class="fas fa-home"></i></a>		  
-				<a href="/products/">Products <i class="fas fa-project-diagram"></i></a>
-				<a href="/services/">Services <i class="fas fa-clipboard-list"></i></a>
-				<a href="/privacy/">Privacy policy <i class="fas fa-archive"></i></a>
-				<a href="/contact/">Contact us <i class="far fa-address-book"></i></a>
-			</div>
-		</div>
-		<h1>Freeware Lovers</h1>   
+	<nav class="navbar navbar-expand-md sticky-top">
+	
+	<button class="navbar-toggler" type="button" data-toggle="collapse" 
+	data-target="#collapsibleNavbar">
+		<span class="navbar-toggler-icon">
+		<i class="fas fa-bars" style="color:white; font-size:26px;"></i>
+		</span>
+	</button>
+		
+	<div class="collapse navbar-collapse" id="collapsibleNavbar">
+		<ul class="navbar-nav">
+			<li class="nav-item">
+				<a class="nav-link" href="index.html">Home</a>		  
+			</li>
+			<li class="nav-item">	
+				<a class="nav-link" href="/products/">Products</a>
+			</li>	
+			<li class="nav-item">	
+				<a class="nav-link" href="/services/">Services</a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link" href="/privacy/">Privacy policy</a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link" href="/contact/">Contact us</a>
+			</li>		 
+		</ul>
+		
 	</div> 
+	<h1>Freeware Lovers</h1>
+	  
+	</nav> 
 
 
 <div class="content">
@@ -44,6 +64,6 @@ community, which is aimed to collect and categorize truly free software.</p>
 	<a href="https://github.com/freewarelovers">GitHub <i class="fab fa-github-square"></i></a>
 </div>
 
-
+</div>
 </body>
-<html>
+</html>
