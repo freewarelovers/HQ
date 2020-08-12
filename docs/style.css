@@ -1,48 +1,45 @@
-body {
-	
+body{	
 	color: white;
 	background-color: black;
 	position: relative;
-	min-height: 100vh;
+	min-height: 99vh;
 	/*min-height is used to ensure footer is always on the bottom of the page 
 	   regardless of the amount of content displayed*/
 }
 
-h1 {
+h1{
 	font-size: 26px;
+	padding-top: 18px;
 	padding-right: 10%;
-
+	text-align: right;
 }
 
-.navbar {
-	padding-left: 10%;
+.nav-link{
+	width: 80px;
+	text-align: center;
+}
+
+.navbar{
+	padding-left: 15%;
 	padding-top: 2.5%;
 	background-color: black;
 }
 
-a:hover {
+a:hover{
 	color: grey;
 }
 
-.navbar-toggler-icon {
+.navbar-toggler-icon{
+	padding-top: 15px;
+	padding-bottom: 20px;
 }
 
 .footer{	
+	font-size: 100%;
 	position: absolute;
 	bottom: 0;
-	background-color: inherit;	
-	color: inherit;
-    font-family: inherit; 
-	padding-top: 20px;
-	padding-bottom: 20px;
-	font-size: 20px;
+	padding-left: 5%;
 	height: 20px;
-	/*the height measurment is also used in the content class as padding-bottom 
-	to leave a space for the footer*/
-}
-
-.content{
-	padding-bottom: 20px;
 }
 
 p{
@@ -50,7 +47,6 @@ p{
 	text-align: center;
 	font-size: 150%;
 }
-
 
 a{
 	color: inherit;
