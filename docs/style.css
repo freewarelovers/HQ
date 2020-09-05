@@ -1,91 +1,54 @@
-body {
-	margin: 0;
-	font-family: 'Roboto Mono', monospace;	
+body{	
 	color: white;
 	background-color: black;
 	position: relative;
-	min-height: 100vh;
+	min-height: 99vh;
 	/*min-height is used to ensure footer is always on the bottom of the page 
 	   regardless of the amount of content displayed*/
 }
 
-.navigation {
+h1{
+	font-size: 26px;
+	padding-top: 18px;
+	padding-right: 10%;
+	text-align: right;
+}
+
+.nav-link{
+	width: 80px;
+	text-align: center;
+}
+
+.navbar{
+	padding-left: 15%;
+	padding-top: 2.5%;
 	background-color: black;
-	overflow: hidden;
-	/*overflow set to hidden to ensure correct position of menu button*/
 }
 
-.navigation h1 {	
-	text-align: centre;
-	padding: 8px 20px;
-	text-decoration: none;
-	font-size: 18px;	
-}
-
-.dropdown {
-	text-align: left;
-	float: left;
-	overflow: hidden;
-}
-
-.dropdown .dropdown-button {
-	font-size: 20px;
-	border: none;
-	padding: 20px 20px;
-	outline: none;
-	color: inherit;  
-	background-color: inherit;
-	font-family: inherit; 
-}
-
-.dropdown-content {
-	background-color: black;
-	display: none;
-	position: absolute;
-	min-width: 80px;
-}
-
-.dropdown-content a {
-	background-color: inherit;
-	padding: 12px 16px;
-	text-decoration: none;
-	display: block;
-}
-
-.dropdown:hover .dropdown-content {
-	display: block;  
-}
-
-.dropdown-content a:hover {
+a:hover{
 	color: grey;
-	background-color: black;
 }
 
-.footer {	
+.navbar-toggler-icon{
+	padding-top: 15px;
+	padding-bottom: 20px;
+}
+
+.footer{	
+	font-size: 100%;
 	position: absolute;
 	bottom: 0;
-	background-color: inherit;	
-	color: inherit;
-    font-family: inherit; 
-	padding-top: 20px;
-	padding-bottom: 20px;
-	font-size: 20px;
+	padding-left: 5%;
 	height: 20px;
-	/*the height measurment is also used in the content class as padding-bottom 
-	to leave a space for the footer*/
 }
 
-.content {
-	padding-bottom: 20px;
-}
-
-p {
-	padding: 15vh 15vh;
+p{
+	padding: 15% 5%;
 	text-align: center;
-	font-size: 30px;
+	font-size: 150%;
 }
 
-a {
+a{
 	color: inherit;
 	/*to prevent links from turning blue*/
 }
