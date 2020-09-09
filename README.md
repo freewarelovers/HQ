@@ -1,6 +1,6 @@
 # HQ
 
-Homepage of the company Freeware Lovers GmbH
+Homepage of the company Freeware Lovers GmbH.
 
 The web site files are stored in the **/docs** folder.
 
