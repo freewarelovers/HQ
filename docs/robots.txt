@@ -1,4 +1,4 @@
 Sitemap: https://freewarelovershq.com/sitemap.xml
 
 User-agent: *
-Disallow: /new/
+Disallow:
