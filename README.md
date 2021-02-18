@@ -40,6 +40,6 @@ The homepage itself can be accessed at **[FreewareLoversHQ.com](https://freeware
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/company/freeware-lovers-gmbh/
 [facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=flat-square&logo=facebook&colorB=555
-[facebook-url]: https://www.linkedin.com/company/freeware-lovers-gmbh/
+[facebook-url]: https://www.facebook.com/FreewareLovers
 [twitter-shield]: https://img.shields.io/twitter/follow/FreewareLovers?label=Follow&style=social
 [twitter-url]: https://twitter.com/intent/follow?screen_name=FreewareLovers
