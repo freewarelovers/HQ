@@ -17,6 +17,7 @@ Homepage of the company Freeware Lovers GmbH.
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![Facebook][facebook-shield]][facebook-url]
 [![Twitter][twitter-shield]][twitter-url]
 
 The web site files are stored in the **/docs** folder.
@@ -38,5 +39,7 @@ The homepage itself can be accessed at **[FreewareLoversHQ.com](https://freeware
 [license-url]: https://github.com/freewarelovers/HQ/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/company/freeware-lovers-gmbh/
+[facebook-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=facebook&colorB=555
+[facebook-url]: https://www.linkedin.com/company/freeware-lovers-gmbh/
 [twitter-shield]: https://img.shields.io/twitter/follow/FreewareLovers?label=Follow&style=social
 [twitter-url]: https://twitter.com/intent/follow?screen_name=FreewareLovers
