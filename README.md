@@ -1,6 +1,6 @@
 # Freeware Lovers HQ
 
-Homepage of the company Freeware Lovers GmbH.
+Homepage of the company Freeware Lovers.
 
 <!-- PROJECT SHIELDS -->
 <!--
