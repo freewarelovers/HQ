@@ -24,7 +24,7 @@ The web site files are stored in the **/docs** folder.
 
 The **/alt** folder holds an alternative (in development) version(s) of the site.
 
-The homepage itself can be accessed at **[FreewareLoversHQ.com](https://freewarelovershq.com/)**.
+The main product of the company is a free software platform called **[Freeware Lovers](https://freewarelovers.com/)**.
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
